@@ -1,0 +1,16 @@
+SOUNDA CYBERSECURITY PORTFOLIO — V6
+
+Cette version affine la V5 sans changer l'identité du portfolio :
+- contraste et palette plus premium (sauge profond + cartes claires + section Projets sombre)
+- lien Compétences ajouté à la navigation
+- projets enrichis avec type de projet + résultat/livrable clé
+- certifications avec dates
+- CTA PFE renforcé : Audit SSI & GRC, Maroc & France, 6 mois, janvier 2027
+- responsive/mobile conservé et amélioré
+- FR/EN conservé, avec CV adapté à la langue
+- accessibilité et performance améliorées (focus clavier, lazy loading, metadata)
+
+Pour lancer dans VS Code :
+1. Ouvrir le dossier dans VS Code.
+2. Clic droit sur index.html > Open with Live Server.
+3. Si une ancienne version est en cache : Ctrl + F5 dans le navigateur.

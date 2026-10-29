@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-label="Anomaly Detection for Critical Infrastructure">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#eef6f8"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#14213d" flood-opacity=".10"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="700" rx="36" fill="url(#bg)"/>
+  
+    <text x="70" y="90" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#1f2926">Anomaly Detection for Critical Infrastructure</text>
+    <text x="70" y="136" font-family="Arial,sans-serif" font-size="22" fill="#64747a">Research project in progress</text>
+    
+        <rect x="70" y="230" width="230" height="165" rx="24" fill="#ffffff" stroke="#dce6e8" filter="url(#shadow)"/>
+        <circle cx="106" cy="270" r="14" fill="#2878f0"/>
+        <text x="98" y="325" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#1f2926">Industrial data</text>
+        <text x="98" y="358" font-family="Arial,sans-serif" font-size="17" fill="#64747a">Sensors &amp; variables</text>
+        <path d="M 306 312 L 340 312" stroke="#4f6b5b" stroke-width="5" stroke-linecap="round"/><path d="M 328 301 L 342 312 L 328 323" fill="none" stroke="#4f6b5b" stroke-width="5"/>
+        <rect x="355" y="230" width="230" height="165" rx="24" fill="#ffffff" stroke="#dce6e8" filter="url(#shadow)"/>
+        <circle cx="391" cy="270" r="14" fill="#2878f0"/>
+        <text x="383" y="325" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#1f2926">Preprocessing</text>
+        <text x="383" y="358" font-family="Arial,sans-serif" font-size="17" fill="#64747a">Cleaning &amp; preparation</text>
+        <path d="M 591 312 L 625 312" stroke="#4f6b5b" stroke-width="5" stroke-linecap="round"/><path d="M 613 301 L 627 312 L 613 323" fill="none" stroke="#4f6b5b" stroke-width="5"/>
+        <rect x="640" y="230" width="230" height="165" rx="24" fill="#ffffff" stroke="#dce6e8" filter="url(#shadow)"/>
+        <circle cx="676" cy="270" r="14" fill="#2878f0"/>
+        <text x="668" y="325" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#1f2926">Supervised model</text>
+        <text x="668" y="358" font-family="Arial,sans-serif" font-size="17" fill="#64747a">Machine learning</text>
+        <path d="M 876 312 L 910 312" stroke="#4f6b5b" stroke-width="5" stroke-linecap="round"/><path d="M 898 301 L 912 312 L 898 323" fill="none" stroke="#4f6b5b" stroke-width="5"/>
+        <rect x="925" y="230" width="230" height="165" rx="24" fill="#ffffff" stroke="#dce6e8" filter="url(#shadow)"/>
+        <circle cx="961" cy="270" r="14" fill="#2878f0"/>
+        <text x="953" y="325" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#1f2926">Detection</text>
+        <text x="953" y="358" font-family="Arial,sans-serif" font-size="17" fill="#64747a">Normal / attack</text>
+        
+    <rect x="150" y="480" width="390" height="74" rx="37" fill="#26332e"/>
+    <text x="345" y="527" font-family="Arial,sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#fff">Reduce false positives</text>
+    <rect x="660" y="480" width="390" height="74" rx="37" fill="#14213d"/>
+    <text x="855" y="517" font-family="Arial,sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#fff">Improve minority-attack detection</text>
+    <text x="600" y="610" font-family="Arial,sans-serif" font-size="17" text-anchor="middle" fill="#7a858a">No final performance result is shown before it is verified.</text>
+    
+</svg>
