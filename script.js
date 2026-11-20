@@ -330,7 +330,7 @@ function setLanguage(lang){
     btn.setAttribute('aria-pressed', String(active));
   });
 
-  const cvPath = lang === 'fr' ? 'assets/CV_Sounda_Francais.pdf' : 'assets/CV_Sounda_English.pdf';
+  const cvPath = lang === 'fr' ? 'assets/CV_Sounda_Francais.pdf?v=20261120' : 'assets/CV_Sounda_English.pdf?v=20261120';
   document.querySelectorAll('.cv-link').forEach(link => link.setAttribute('href', cvPath));
 
   document.querySelectorAll('[data-img-en][data-img-fr]').forEach(img => {
